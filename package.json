@@ -1,7 +1,7 @@
 {
   "name": "@pinosandro/feature-flags-rps-plugin",
   "description": "A plugin for @pinosandro/react-plugin-system that provides feature flag management for React applications.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Alessandro Lo Presti",
   "license": "MIT",
   "type": "module",
